@@ -1,4 +1,4 @@
-# TreeToHTML
+# Tree to HTML
 
 This page shows that HTML works like a tree of elements.
 
